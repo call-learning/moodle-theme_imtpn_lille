@@ -6,9 +6,8 @@
 //
 
 // General layout settings
-$imt-lille-primary: #00B8DE;
-$imt-lille-secondary: #F2A900;
 
+@import '../../imtpn/scss/abstracts/colors';
 $primary: $imt-lille-primary;
 $secondary: $imt-lille-secondary;
 
