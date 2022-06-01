@@ -10,5 +10,8 @@
 @import '../../imtpn/scss/abstracts/colors';
 $primary: $imt-lille-primary;
 $secondary: $imt-lille-secondary;
-
 @import "../../imtpn/scss/pre";
+
+.navbar__logo {
+  height: 80px !important;
+}
